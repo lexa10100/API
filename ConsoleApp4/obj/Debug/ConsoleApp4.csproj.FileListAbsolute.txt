@@ -1,0 +1,10 @@
+D:\Microsoft Visual Studio\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Microsoft Visual Studio\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Microsoft Visual Studio\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Microsoft Visual Studio\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Newtonsoft.Json.dll
+D:\Microsoft Visual Studio\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Newtonsoft.Json.xml
+D:\Microsoft Visual Studio\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CopyComplete
+D:\Microsoft Visual Studio\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Microsoft Visual Studio\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
